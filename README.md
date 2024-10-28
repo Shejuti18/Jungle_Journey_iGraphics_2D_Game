@@ -1,0 +1,1 @@
+This is an action-packed treasure hunting game where players battle monsters and gather treasures for an exciting gaming experience. Created in C++ using the iGraphics library, it runs on Visual Studio, delivering thrilling adventures for all.
